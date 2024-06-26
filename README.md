@@ -1,1 +1,1 @@
-# microservi-os-rabbitmq-dotnet
+# microservicos-rabbitmq-dotnet
